@@ -1,2 +1,16 @@
-# Todo-app
-I've created a simple to do app that runs functions. Express.js, node.js, are used.  I didn't pay much attention to the css
+# My Todo App
+
+A simple Todo application built with Node.js and vanilla JavaScript.
+
+## Features
+
+- Add new tasks
+- Delete tasks
+- View all tasks
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/JavlonbekGoziev/myapp.git
+   cd myapp
