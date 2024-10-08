@@ -12,5 +12,5 @@ A simple Todo application built with Node.js and vanilla JavaScript.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/JavlonbekGoziev/myapp.git
+   git clone https://github.com/JavlonbekGoziev/todo-app
    cd myapp
